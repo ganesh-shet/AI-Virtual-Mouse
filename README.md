@@ -19,4 +19,4 @@ To setup the system for development on your local machine
 1.Clone the repository to your machine
 > https://github.com/ganesh-shet/AI-Virtual-Mouse
 > 
-2.Run the **AIVirtualMouse.py** python file.
+2.Run the `AIVirtualMouse.py` python file.
